@@ -37,7 +37,7 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/alternative_tracing_methods.ipynb
 
-MODULE 1 - VIDEO 3
+MODULE 1 - VIDEO 4
 
 Learned how llms with chatbot interfaces work by grouping multiple traces using threads to answer questions with context relying on previous questions and to use metadata for extra information and filtering.
 
