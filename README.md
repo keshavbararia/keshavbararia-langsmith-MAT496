@@ -3,7 +3,7 @@ MODULE 1 - VIDEO 1
 In this lesson, I learned how tracing in LangChain helps monitor and debug language model applications by providing visibility into runs with metadata for better organization. I also practiced enabling tracing through environment variables.
 
 enabled tracing,  
-added metadata,
+added metadata,                                                                                                                               
 changed the 1st question to "What does @traceable do in LangSmith"
 
 edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module1/tracing%20basics.ipynb
