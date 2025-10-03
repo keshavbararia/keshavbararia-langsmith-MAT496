@@ -14,6 +14,12 @@ MODULE 1 - VIDEO 2
 
 I learned that assigning specific run types in LangSmith makes LangChain outputs easier to interpret. i learned about various run types like llm,chain,retriever,tool, I also learned about reducing chunks using reduce_fn function.
 
+Added run_type = llm                                                                                                                                 
+Added run_type = tool                                                                                                                                
+Added run_type = retriever                                                                                                                            
+Used reduce_fn function                                                                                                                        
+Changed Example to say goodbye to the user instead of greeting it which helped in understanding of run_type function.
+
 edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module1/types%20of%20runs.ipynb
 
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/types_of_runs.ipynb
