@@ -25,4 +25,16 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/types_of_runs.ipynb
 
 
+MODULE 1 - VIDEO 3
+
+I learned multple ways to monitor runs in langsmith like with trace, wrap_openai and run tree apart from @traceable.
+
+I removed traceable decorater and used with trace                                                                                              
+Wrapped the OpenAI client using wrap_openai so that nested calls are automatically traced.                                                      
+Changed 2 questions to create new examples.
+
+edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module1/alternative%20tracing%20methods.ipynb
+
+original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/alternative_tracing_methods.ipynb
+
 
