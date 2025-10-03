@@ -37,4 +37,13 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/alternative_tracing_methods.ipynb
 
+MODULE 1 - VIDEO 3
+
+Learned how llms with chatbot interfaces work by grouping multiple traces using threads to answer questions with context relying on previous questions and to use metadata for extra information and filtering.
+
+Changed the last question to prove that the question was answered on basis of previous question.
+
+edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module1/conversational%20threads.ipynb
+original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/conversational_threads.ipynb
+
 
