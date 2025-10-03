@@ -43,7 +43,7 @@ Learned how llms with chatbot interfaces work by grouping multiple traces using 
 
 Changed the last question to prove that the question was answered on basis of previous question.
 
-edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module1/conversational%20threads.ipynb
+edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module1/conversational%20threads.ipynb             
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/conversational_threads.ipynb
 
 
