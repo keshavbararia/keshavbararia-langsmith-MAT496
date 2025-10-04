@@ -1,4 +1,5 @@
 # Introduction to LangSmith
+course: https://academy.langchain.com/courses/take/intro-to-langsmith
 ## MODULE 1
 
 ### MODULE 1 - VIDEO 1
