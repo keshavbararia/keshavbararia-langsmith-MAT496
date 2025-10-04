@@ -90,6 +90,9 @@ Used Feedback and metrics to see how the model performed.
 Compared different experiments side by side on the basis of metrics.
 
 ### MODULE 2 VIDEO 5
+<img width="2879" height="1492" alt="image" src="https://github.com/user-attachments/assets/ad704124-a310-45a1-8170-01e128588d03" />
+
+
 Learned how to run experiments in LangSmith to compare two different LLM prompts on the same dataset and to score summaries with an evaluator and run pairwise experiments to see which prompt gives better results.
 
 Ran a comparitive analysis between 2 experiments (good and bad summarizer) using their experiment ids.
