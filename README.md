@@ -90,9 +90,18 @@ Used Feedback and metrics to see how the model performed.
 Compared different experiments side by side on the basis of metrics.
 
 ### MODULE 2 VIDEO 5
-learned how to run experiments in LangSmith to compare two different LLM prompts on the same dataset and to score summaries with an evaluator and run pairwise experiments to see which prompt gives better results.
+Learned how to run experiments in LangSmith to compare two different LLM prompts on the same dataset and to score summaries with an evaluator and run pairwise experiments to see which prompt gives better results.
 
 Ran a comparitive analysis between 2 experiments (good and bad summarizer) using their experiment ids.
 
 edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/pairwise%20experiments.ipynb                      
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/pairwise_experiments.ipynb
+
+### MODULE 1 - VIDEO 6
+Learned how to use a summary evaluator in LangSmith to assess an LLM’s overall performance. Learned about calculating the F1-score across all predictions to evaluate how well the toxicity classifier performed.
+
+Created a bad classifier as well for the toxicity evaluator which had a bad f1 score.
+
+edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/summary%20evaluators.ipynb                            
+original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/summary_evaluators.ipynb
+
