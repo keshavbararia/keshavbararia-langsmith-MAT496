@@ -69,3 +69,13 @@ Created an auto evaluator in LangSmith to compute similarity score just like we 
 edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/evaluators.ipynb                           
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/evaluators.ipynb
 
+### MODULE 2 VIDEO 3
+Learned how to run experiments over a dataset which I made in LangSmith. I also learned how to run it over different dataset parts like version, split and specific points using example ids.
+
+I used gpt 4o mini other than gpt4o and gpt 3.5 turbo                                                                                           
+I tagged the earliest time version to "initial" to work on that specific dataset version.                                                          
+I created a "crucial" split to experiment on the specific examples included in that split.                                      
+Added 2 example ids to experiment on 2 specific examples.
+
+edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/experiments.ipynb
+original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/experiments.ipynb
