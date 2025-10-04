@@ -1,4 +1,5 @@
 # Introduction to LangSmith
+course: https://academy.langchain.com/courses/take/intro-to-langsmith
 ## MODULE 1
 
 ### MODULE 1 - VIDEO 1
@@ -88,4 +89,10 @@ Viewed complete input/output text for gpt 4o experiment in json/yaml format
 Used Feedback and metrics to see how the model performed.                                                                                  
 Compared different experiments side by side on the basis of metrics.
 
+### MODULE 2 VIDEO 5
+learned how to run experiments in LangSmith to compare two different LLM prompts on the same dataset and to score summaries with an evaluator and run pairwise experiments to see which prompt gives better results.
 
+Ran a comparitive analysis between 2 experiments (good and bad summarizer) using their experiment ids.
+
+edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/pairwise%20experiments.ipynb                      
+original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/pairwise_experiments.ipynb
