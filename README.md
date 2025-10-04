@@ -59,3 +59,13 @@ Changed the question to one of the other questions already mentioned in the exam
 
 edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/dataset%20upload.ipynb             
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/dataset_upload.ipynb
+
+### MODULE 2 VIDEO 2
+Learned how LLM-as-judge evaluators work to score system output. I also learned how to create auto evaluators in LangSmith using a similarity evaluator in the course.
+
+I added a highly similar example achieving a similarity score 10 to test how well our model works.
+Created an auto evaluator in LangSmith to compute similarity score just like we did in the code.
+
+edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/evaluators.ipynb                           
+original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/evaluators.ipynb
+
