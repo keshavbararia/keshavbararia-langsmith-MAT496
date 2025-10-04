@@ -3,8 +3,11 @@ course: https://academy.langchain.com/courses/take/intro-to-langsmith
 ## MODULE 1
 
 ### MODULE 1 - VIDEO 1
+**LEARNINGS:**
 
 In this lesson, I learned how tracing in LangChain helps monitor and debug language model applications by providing visibility into runs with metadata for better organization. I also practiced enabling tracing through environment variables.
+
+**CHANGES:**
 
 enabled tracing,  
 added metadata,                                                                                                                               
@@ -15,12 +18,15 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/tracing_basics.ipynb
 
 ### MODULE 1 - VIDEO 2
+**LEARNINGS:**
 
 I learned that assigning specific run types in LangSmith makes LangChain outputs easier to interpret. i learned about various run types like llm,chain,retriever,tool, I also learned about reducing chunks using reduce_fn function.
 
+**CHANGES:**
+
 Added run_type = llm                                                                                                                                 
 Added run_type = tool                                                                                                                                
-Added run_type = retriever                                                                                                                            
+Added run_type = retriever                                                                                                                           
 Used reduce_fn function                                                                                                                        
 Changed Example to say goodbye to the user instead of greeting it which helped in understanding of run_type function.
 
@@ -30,8 +36,11 @@ original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/b
 
 
 ### MODULE 1 - VIDEO 3
+**LEARNINGS:**
 
 I learned multple ways to monitor runs in langsmith like with trace, wrap_openai and run tree apart from @traceable.
+
+**CHANGES:**
 
 I removed traceable decorater and used with trace                                                                                              
 Wrapped the OpenAI client using wrap_openai so that nested calls are automatically traced.                                                      
@@ -42,8 +51,11 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/alternative_tracing_methods.ipynb
 
 ### MODULE 1 - VIDEO 4
+**LEARNINGS:**
 
 Learned how llms with chatbot interfaces work by grouping multiple traces using threads to answer questions with context relying on previous questions and to use metadata for extra information and filtering.
+
+**CHANGES:**
 
 Changed the last question to prove that the question was answered on basis of previous question.
 
@@ -53,7 +65,11 @@ original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/b
 ## MODULE 2
 
 ### MODULE 2 VIDEO 1
+**LEARNINGS:**
+
 Learned how to create a dataset on LangSmith and how to log examples to the dataset using client.create_examples.
+
+**CHANGES:**
 
 I created a dataset and used client.create_examples to log examples.
 Changed the question to one of the other questions already mentioned in the examples that were logged and observed the output.
@@ -62,7 +78,11 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/dataset_upload.ipynb
 
 ### MODULE 2 VIDEO 2
+**LEARNINGS:**
+
 Learned how LLM-as-judge evaluators work to score system output. I also learned how to create auto evaluators in LangSmith using a similarity evaluator in the course.
+
+**CHANGES:**
 
 I added a highly similar example achieving a similarity score 10 to test how well our model works.
 Created an auto evaluator in LangSmith to compute similarity score just like we did in the code.
@@ -73,7 +93,11 @@ original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/b
 ### MODULE 2 VIDEO 3
 <img width="2864" height="1517" alt="image" src="https://github.com/user-attachments/assets/840b5964-5c1c-4d99-9e49-93d5d983e0d2" />
 
+**LEARNINGS:**
+
 Learned how to run experiments over a dataset which I made in LangSmith. I also learned how to run it over different dataset parts like version, split and specific points using example ids.
+
+**CHANGES:**
 
 I used gpt 4o mini other than gpt4o and gpt 3.5 turbo                                                                                           
 I tagged the earliest time version to "initial" to work on that specific dataset version.                                                          
@@ -86,7 +110,11 @@ original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/b
 ### MODULE 2 VIDEO 4
 <img width="2879" height="1525" alt="image" src="https://github.com/user-attachments/assets/ba54f2ed-e84b-49a8-be52-ede9035172da" />
 
+**LEARNINGS:**
+
 Analyzed experiment graphs which helped in seeing trends in our application performance and how it changed overtime, also how filters can be used to see different experiments. Learned how evaluators help in understanding how the model is performing.
+
+**CHANGES:**
 
 Used filters to see the experiment by gpt 3.5 turbo.                                                                                           
 Viewed complete input/output text for gpt 4o experiment in json/yaml format                                                                     
@@ -96,8 +124,11 @@ Compared different experiments side by side on the basis of metrics.
 ### MODULE 2 VIDEO 5
 <img width="2879" height="1492" alt="image" src="https://github.com/user-attachments/assets/ad704124-a310-45a1-8170-01e128588d03" />
 
+**LEARNINGS:**
 
 Learned how to run experiments in LangSmith to compare two different LLM prompts on the same dataset and to score summaries with an evaluator and run pairwise experiments to see which prompt gives better results.
+
+**CHANGES:**
 
 Ran a comparitive analysis between 2 experiments (good and bad summarizer) using their experiment ids.
 
@@ -107,8 +138,11 @@ original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/b
 ### MODULE 2 - VIDEO 6
 <img width="2867" height="1499" alt="image" src="https://github.com/user-attachments/assets/71d4ab13-4dea-44d5-8535-f47ec1087d8c" />
 
+**LEARNINGS:**
 
 Learned how to use a summary evaluator in LangSmith to assess an LLM’s overall performance. Learned about calculating the F1-score across all predictions to evaluate how well the toxicity classifier performed.
+
+**CHANGES:**
 
 Created a bad classifier as well for the toxicity evaluator which had a bad f1 score.
 
