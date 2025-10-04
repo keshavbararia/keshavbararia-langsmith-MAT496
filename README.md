@@ -69,3 +69,23 @@ Created an auto evaluator in LangSmith to compute similarity score just like we 
 edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/evaluators.ipynb                           
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/evaluators.ipynb
 
+### MODULE 2 VIDEO 3
+Learned how to run experiments over a dataset which I made in LangSmith. I also learned how to run it over different dataset parts like version, split and specific points using example ids.
+
+I used gpt 4o mini other than gpt4o and gpt 3.5 turbo                                                                                           
+I tagged the earliest time version to "initial" to work on that specific dataset version.                                                          
+I created a "crucial" split to experiment on the specific examples included in that split.                                      
+Added 2 example ids to experiment on 2 specific examples.
+
+edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/experiments.ipynb                        
+original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/experiments.ipynb
+
+### MODULE 2 VIDEO 4
+Analyzed experiment graphs which helped in seeing trends in our application performance and how it changed overtime, also how filters can be used to see different experiments. Learned how evaluators help in understanding how the model is performing.
+
+Used filters to see the experiment by gpt 3.5 turbo.                                                                                           
+Viewed complete input/output text for gpt 4o experiment in json/yaml format                                                                     
+Used Feedback and metrics to see how the model performed.                                                                                  
+Compared different experiments side by side on the basis of metrics.
+
+
