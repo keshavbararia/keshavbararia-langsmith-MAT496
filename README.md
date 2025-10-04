@@ -71,6 +71,8 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/evaluators.ipynb
 
 ### MODULE 2 VIDEO 3
+<img width="2864" height="1517" alt="image" src="https://github.com/user-attachments/assets/840b5964-5c1c-4d99-9e49-93d5d983e0d2" />
+
 Learned how to run experiments over a dataset which I made in LangSmith. I also learned how to run it over different dataset parts like version, split and specific points using example ids.
 
 I used gpt 4o mini other than gpt4o and gpt 3.5 turbo                                                                                           
@@ -82,6 +84,8 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/experiments.ipynb
 
 ### MODULE 2 VIDEO 4
+<img width="2879" height="1525" alt="image" src="https://github.com/user-attachments/assets/ba54f2ed-e84b-49a8-be52-ede9035172da" />
+
 Analyzed experiment graphs which helped in seeing trends in our application performance and how it changed overtime, also how filters can be used to see different experiments. Learned how evaluators help in understanding how the model is performing.
 
 Used filters to see the experiment by gpt 3.5 turbo.                                                                                           
