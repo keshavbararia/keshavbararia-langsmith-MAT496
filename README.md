@@ -1,4 +1,7 @@
-MODULE 1 - VIDEO 1
+# Introduction to LangSmith
+## MODULE 1
+
+### MODULE 1 - VIDEO 1
 
 In this lesson, I learned how tracing in LangChain helps monitor and debug language model applications by providing visibility into runs with metadata for better organization. I also practiced enabling tracing through environment variables.
 
@@ -10,7 +13,7 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/tracing_basics.ipynb
 
-MODULE 1 - VIDEO 2
+### MODULE 1 - VIDEO 2
 
 I learned that assigning specific run types in LangSmith makes LangChain outputs easier to interpret. i learned about various run types like llm,chain,retriever,tool, I also learned about reducing chunks using reduce_fn function.
 
@@ -25,7 +28,7 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/types_of_runs.ipynb
 
 
-MODULE 1 - VIDEO 3
+### MODULE 1 - VIDEO 3
 
 I learned multple ways to monitor runs in langsmith like with trace, wrap_openai and run tree apart from @traceable.
 
@@ -37,7 +40,7 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/alternative_tracing_methods.ipynb
 
-MODULE 1 - VIDEO 4
+### MODULE 1 - VIDEO 4
 
 Learned how llms with chatbot interfaces work by grouping multiple traces using threads to answer questions with context relying on previous questions and to use metadata for extra information and filtering.
 
@@ -46,4 +49,13 @@ Changed the last question to prove that the question was answered on basis of pr
 edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module1/conversational%20threads.ipynb             
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/conversational_threads.ipynb
 
+## MODULE 2
 
+### MODULE 2 VIDEO 1
+Learned how to create a dataset on LangSmith and how to log examples to the dataset using client.create_examples.
+
+I created a dataset and used client.create_examples to log examples.
+Changed the question to one of the other questions already mentioned in the examples that were logged and observed the output.
+
+edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/dataset%20upload.ipynb             
+original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/dataset_upload.ipynb
