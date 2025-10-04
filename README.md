@@ -79,3 +79,13 @@ Added 2 example ids to experiment on 2 specific examples.
 
 edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/module2/experiments.ipynb                        
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/experiments.ipynb
+
+### MODULE 2 VIDEO 4
+Analyzed experiment graphs which helped in seeing trends in our application performance and how it changed overtime, also how filters can be used to see different experiments. Learned how evaluators help in understanding how the model is performing.
+
+Used filters to see the experiment by gpt 3.5 turbo.                                                                                           
+Viewed complete input/output text for gpt 4o experiment in json/yaml format                                                                     
+Used Feedback and metrics to see how the model performed.                                                                                  
+Compared different experiments side by side on the basis of metrics.
+
+
