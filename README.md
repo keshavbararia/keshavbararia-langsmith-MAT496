@@ -101,6 +101,9 @@ edited file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blo
 original file: https://github.com/keshavbararia/keshavbararia-langsmith-MAT496/blob/main/source%20code/pairwise_experiments.ipynb
 
 ### MODULE 2 - VIDEO 6
+<img width="2867" height="1499" alt="image" src="https://github.com/user-attachments/assets/71d4ab13-4dea-44d5-8535-f47ec1087d8c" />
+
+
 Learned how to use a summary evaluator in LangSmith to assess an LLM’s overall performance. Learned about calculating the F1-score across all predictions to evaluate how well the toxicity classifier performed.
 
 Created a bad classifier as well for the toxicity evaluator which had a bad f1 score.
